@@ -6,4 +6,7 @@
 * Item 2
 
 
-\*I want it to be literal asterisks\*
+*I want it to be literal asterisks*
+
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
